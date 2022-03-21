@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emil</h1>
 <h3 align="center">A passionate data analyst from Romania (EU)</h3>
+<img align="right" src="https://www.google.com/search?q=data+analyst+gif&sxsrf=APq-WBvwhe6ITONgS6ausgUxbRUpdw7Ksw:1647866464668&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi3m436nNf2AhWPSfEDHa_OB9EQ_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1#imgrc=ITaGGdoGDaxxhM">
 
 - 👨‍💻 All of my projects are available at [https://ebr97.github.io/EmilBucurPortfolio.github.io/](https://ebr97.github.io/EmilBucurPortfolio.github.io/)
 
