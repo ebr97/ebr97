@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emil</h1>
-<h3 align="center">I'm a growing certified Data Analyst by Google from Romania (EU)</h3>
+<h3 align="center">I'm a growing Data Analyst from Romania (EU)</h3>
 <img align="right" width="400" src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=790b7611743883abef7e4fb1714d021684a0f0af3ee87608&rid=giphy.gif&ct=g">
 
 - 👨‍💻 All of my projects are available at [https://ebr97.github.io/EmilBucurPortfolio.github.io/](https://ebr97.github.io/EmilBucurPortfolio.github.io/)
